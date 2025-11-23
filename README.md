@@ -1,4 +1,4 @@
-# Codebase Teacher: Local AI RAG Agent
+# Python Codebase Teacher: Local AI RAG Agent
 
 Codebase Teacher is a fully local RAG (Retrieval-Augmented Generation) application designed to help you understand, refactor, and document your own code.
 
